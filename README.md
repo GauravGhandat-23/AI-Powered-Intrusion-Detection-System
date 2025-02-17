@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/857379ec-025d-4fe2-ae7a-2192ad6199ca)
 
-[![AI-Powered Intrusion Detection System (IDS)](https://img.shields.io/badge/AI%20Powered%20Intrusion%20Detection%20System%20(IDS)-blue?style=flat-square)]
+[![AI-Powered Intrusion Detection System (IDS)](https://img.shields.io/badge/AI%20Powered%20Intrusion%20Detection%20System%20(IDS)-blue?style=flat-square)](https://ai-powered-intrusion-detection-system-fu9hleq57yva3bqcxxr2hb.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-Enabled-red?style=for-the-badge&logo=streamlit) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-success?style=for-the-badge&logo=scikit-learn)  
 
