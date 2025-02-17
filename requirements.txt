@@ -2,5 +2,5 @@ streamlit
 pandas 
 scikit-learn 
 groq
-request
+requests
 numpy
